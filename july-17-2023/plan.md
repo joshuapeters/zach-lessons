@@ -17,6 +17,9 @@
       1. https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs
    6. Vercel (CI/CD)
       1. https://vercel.com/blog/what-is-vercel
+   7. Git/Github (Source Control)
+      1. A quick primer on git: [What Is Git?](https://www.simplilearn.com/tutorials/git-tutorial/what-is-git#:~:text=Git%20is%20a%20version%20control,code%20management%20in%20software%20development.)
+      2. [What is Github?](https://www.simplilearn.com/tutorials/git-tutorial/what-is-github)
 5. What Are We Building?
    1. A Todo app!
    2. More specifically: we're building a client-side only todo app.
@@ -45,7 +48,11 @@
    1. Some of this might go over your head a little bit, that's okay! The important bit is that you understand how to break down a design into a set of components well. It takes time to do so, and you can under or over index on how to best break things down. (You don't need a component per word, but the whole thing shouldn't be in one component either.)
 
 # Stretch Goals
-1. Wire up checking off a todo
+1. Wire up deleting a todo
+   1. We had to update state when we added a todo, and we'll need to do it again!
+   2. Our state is represented as an [array](https://www.w3schools.com/js/js_arrays.asp) of Todos, you'll need to know which todo you're deleting in order to remove it from the array.
+   3. Hint: we already have a `TodoItem` component that knows about an individual Todo... maybe we should add a [callback](https://legacy.reactjs.org/docs/faq-functions.html) to it that takes some parameters...
+2. Wire up checking off a todo
    1. We should have a list of Todos rendering and the ability to add them. Lets make it so you can check them off.
    2. Checking a Todo should render it's name with it's text struck through ~like this~
    3. Helpful concepts:
