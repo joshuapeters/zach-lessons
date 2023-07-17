@@ -22,4 +22,6 @@
    3. This app will have one screen
       1. You can have a list of todos.
       2. You can click a + button to add a new one, and type in it's title.
-      3. Each todo can have a checkbox that
+      3. Each todo can have a checkbox that marks that todo as done
+      4. Each todo has a trashcan icon that lets you delete that todo
+   4. We won't be saving this to a database yet, this will only live client-side
