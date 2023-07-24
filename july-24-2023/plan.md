@@ -1,6 +1,6 @@
 # Plan For July 24th, 2023
 
-1. Merge my PR :)
+1. Merge my PR and make me a contributor to Todoist :)
 2. Quick Primer On Some Of Our Stack
    1. Typescript (Language)
       1. https://www.typescriptlang.org/
