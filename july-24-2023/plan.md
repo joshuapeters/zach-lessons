@@ -2,6 +2,15 @@
 
 1. Merge my PR and make me a contributor to Todoist :)
 2. Lets add some good VSCode extensions
+   1. ESLint
+   2. indent-rainbow
+   3. Material Icon Theme
+   4. Prettier - Code Fromatter
+   5. Total Typescript
+   6. Auto Close Tag
+   7. Auto Rename Tag
+   8. GitLens
+   9. HTML CSS Support
 3. Quick Primer On Some Of Our Stack
    1. Typescript (Language)
       1. https://www.typescriptlang.org/
