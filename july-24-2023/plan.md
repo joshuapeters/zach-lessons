@@ -1,7 +1,8 @@
 # Plan For July 24th, 2023
 
 1. Merge my PR and make me a contributor to Todoist :)
-2. Quick Primer On Some Of Our Stack
+2. Lets add some good VSCode extensions
+3. Quick Primer On Some Of Our Stack
    1. Typescript (Language)
       1. https://www.typescriptlang.org/
    2. React (Front-End Framework)
@@ -11,10 +12,10 @@
       1. https://www.radix-ui.com/docs/primitives/overview/getting-started
    4. Styled Components (CSS-In-JS Framework)
       1. https://styled-components.com/
-3. Lets Add Some Dependencies
+4. Lets Add Some Dependencies
    1. Install StyledComponents
    2. Install RadixUI
-4. Lets Render A List Of Todos
+5. Lets Render A List Of Todos
    1. React Components
    2. React Hooks/`useState`
    3. Modeling Data
@@ -22,7 +23,7 @@
          1. An ID
          2. Some Text
          3. A Status (Complete/Incomplete)
-5. Lets Make A Button That Adds A Todo
+6. Lets Make A Button That Adds A Todo
    1. We'll use a [Javascript Prompt](https://www.w3schools.com/js/js_popup.asp) for now!
 
 # Homework
