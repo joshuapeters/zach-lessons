@@ -12,7 +12,9 @@
       2. Some fun, basic styles
          1. borders
          2. text transforms
-   2.
+      3. Positioning w/ Flexbox
+         1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+   2. Styled Components
 
 
 # Homework
