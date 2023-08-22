@@ -18,9 +18,14 @@
 
 
 # Homework
-1. Do suggested changes from PR, and merge the PR to trunk when done!
+1. Do suggested changes from PR, and re-request a review when you're done! I'll take a look :)
 2. Implement strikethroughs on todos when clicking the checkbox
    1. If `isDone` is true, then strike through the text of the todo item
    2. Hints
       1. HTML offers an element to strike through text https://developer.mozilla.org/en-US/docs/Web/HTML/Element/s
       2. The process of rendering one thing or another based on a condition (true/false) is called Conditional Rendering: https://react.dev/learn/conditional-rendering
+
+# Stretch Goal
+1. Wire up adding a todo
+   1. You'll need some way to take a name, one way you could do that is with a javascript Prompt Box: https://www.w3schools.com/js/js_popup.asp
+   2. Once you've got a name, you just need to push to the array of todos!
