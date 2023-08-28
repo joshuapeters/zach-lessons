@@ -5,5 +5,7 @@ These might be incomplete, so be sure to merge this into your fork often. Also, 
 
 Here's an update! - JP
 
-# Sessions
-1. [July 17th, 2023](./july-17-2023/plan.md)
+## Sessions
+- 2023
+  - [July](2023/july/)
+  - [August](2023/august/)
