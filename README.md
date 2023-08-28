@@ -7,5 +7,5 @@ Here's an update! - JP
 
 ## Sessions
 - 2023
-  - [July](2023/july/)
-  - [August](2023/august/)
+  - [July](2023/july/index.md)
+  - [August](2023/august/index.md)
