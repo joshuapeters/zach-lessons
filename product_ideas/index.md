@@ -2,3 +2,8 @@
 - Anime Recommendation System
 - Honeydew
 - Work Automations
+- Find a way to block ads on twitch
+- Twitter clone
+- Reddit clone
+- Youtube clone
+- Youtube dislike extension
