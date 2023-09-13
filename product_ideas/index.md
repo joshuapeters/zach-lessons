@@ -7,3 +7,4 @@
 - Reddit clone
 - Youtube clone
 - Youtube dislike extension
+- icloud albums but for youtube videos
