@@ -1,0 +1,4 @@
+- MyAnimeList Clone
+- Anime Recommendation System
+- Honeydew
+- Work Automations
